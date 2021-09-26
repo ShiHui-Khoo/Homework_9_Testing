@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 800,
     "height": 500,
-    "title": "Life Expectancy of each Country in the World",
+    "title": "Landslides after Rainfall, 2007-2016",
     "projection": {"type": "equalEarth"},
     "layer": [
       {

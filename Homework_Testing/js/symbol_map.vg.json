@@ -14,7 +14,7 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/ShiHui-Khoo/Vega_Lite_Homework/main/FIT_3179_Homework_9/data/catalog.csv"
+          "url": "https://raw.githubusercontent.com/ShiHui-Khoo/Vega_Lite_Homework/main/FIT_3179_Homework_9/data/Life_Expectancy.csv"
         },
         "mark": {"type": "circle", "tooltip": {"content": "data"}},
         "encoding": {
